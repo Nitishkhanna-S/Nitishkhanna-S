@@ -1,196 +1,308 @@
-# 👋 Hi, I'm Nitish Khanna S
+<div align="center">
 
-### 💻 Aspiring Software Developer | Java | Full Stack Development
+# ⚡ NITISH KHANNA S
 
-I'm a Computer Science and Engineering student passionate about **software development, problem solving, and building practical applications**.
+### `Aspiring Software Developer`
 
-I enjoy learning new technologies, solving **Java & DSA problems**, working with databases, and developing full-stack applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Java+%7C+Full+Stack+Developer;DSA+%7C+Problem+Solver;Building+Projects+%7C+Learning+Every+Day;Turning+Ideas+into+Working+Applications" />
 
----
+<br>
 
-## 🚀 About Me
+<a href="https://github.com/Nitishkhanna-S">
+<img src="https://img.shields.io/github/followers/Nitishkhanna-S?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+</a>
+&nbsp;
+<a href="https://github.com/Nitishkhanna-S?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-00D9FF?style=for-the-badge&logo=github"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/nitish-khanna-s-b92314290">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-- 🎓 Computer Science & Engineering Student
-- 💻 Interested in **Java & Full Stack Development**
-- 🧠 Currently strengthening **Data Structures & Algorithms**
-- 🗄️ Learning and working with **MySQL & DBMS**
-- 🌱 Exploring **Spring Boot & Backend Development**
-- 🔐 Interested in building secure and reliable applications
-- 📚 Preparing for software development and technical interviews
-
----
-
-## 🛠️ Tech Stack
-
-### Programming
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 👨‍💻 About Me
 
-### 🏗️ Secure Hill Infrastructure Asset Intelligence System
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🎓 Computer Science & Engineering Student                 │
+│  💻 Aspiring Software Developer                             │
+│  ☕ Java Enthusiast                                         │
+│  🌐 Full Stack Development                                  │
+│  🧠 DSA & Problem Solving                                  │
+│  🗄️ SQL & Database Management                               │
+│  🚀 Building practical software projects                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-A software-based platform that helps people report **damaged roads and infrastructure in hill stations** and helps authorities identify and manage reported issues.
+I enjoy transforming ideas into **simple, useful and scalable applications**.
 
-**Key Features:**
-- 📸 Infrastructure damage reporting
-- 📍 Location-based incident information
-- 📝 Citizen incident submission
-- 👮 Officer-side incident monitoring
-- 🚨 Priority-based issue management
-- 🔄 Faster communication between citizens and authorities
-
-**Technologies:** HTML, CSS, JavaScript, Java/PHP, MySQL
+My current focus is strengthening my foundations in **Java, DSA, SQL, backend development and full-stack application development**.
 
 ---
+
+## 🧩 Tech Arsenal
+
+### 💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,mysql,php" />
+</p>
+
+### 🛠️ Tools & Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ INFRAWATCH
+
+**Infrastructure Incident Intelligence**
+
+A platform designed to help people report infrastructure damage and help authorities monitor and manage incidents.
+
+**Highlights**
+
+- 📸 Damage reporting
+- 📍 Location & time information
+- 🚨 Incident prioritization
+- 👮 Officer monitoring
+- 🔄 Incident management
+- 🛣️ Infrastructure safety
+
+</td>
+
+<td width="50%">
 
 ### 💰 Budget Buddy
 
-A personal **expense and income tracking application** designed to help users manage their finances.
+**Personal Finance Management**
 
-**Key Features:**
-- 💵 Income and expense tracking
-- 📊 Expense reports
+An application for tracking income, expenses and spending limits.
+
+**Highlights**
+
+- 💵 Income tracking
+- 💸 Expense management
+- 📊 Reports
 - 🎯 Spending limits
-- 🗂️ Category-based transactions
-- 🖱️ Drag-and-drop category management
+- 🗂️ Categories
+- 🖱️ Drag & drop management
 
-**Technologies:** HTML, CSS, JavaScript, MySQL
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
 ### 🔐 Access Control System
 
-A role-based access control system designed to manage access for different users.
+**Role-Based Security Platform**
 
-**Key Features:**
-- 👤 Employee, Security and Admin roles
-- 🔑 Role-Based Access Control
-- 📱 OTP verification using Twilio
+A system for managing access between different users and protected areas.
+
+**Highlights**
+
+- 👤 Employee / Admin / Security
+- 🔑 RBAC
+- 📱 OTP verification
+- 📲 Twilio integration
 - 📝 Access logs
-- 🛡️ Secure room access management
+- 🛡️ Secure access management
 
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Twilio API
+</td>
 
----
+<td width="50%">
 
-## 🧠 Coding & Problem Solving
+### 🧠 AI & Intelligent Systems
 
-Currently practicing:
+Exploring practical applications of **AI and machine learning** for real-world problems.
 
-- Arrays
-- Strings
-- HashMap
-- HashSet
-- ArrayList
-- LinkedList
-- Stack & Queue
-- Recursion
-- Sorting & Searching
-- Two Pointers
-- Sliding Window
-- Basic SQL
-- Advanced SQL
-- Java Collections
-- OOP
-- Exception Handling
-- Multithreading
+**Areas**
+
+- 🤖 Machine Learning
+- 📊 Data Processing
+- 🔍 Prediction Systems
+- 🧠 Intelligent Decision Support
+- 🚨 Risk Detection
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Learning
+## 🧠 DSA Journey
 
 ```text
-Java
-  ├── OOP
-  ├── Collections
-  ├── Exception Handling
-  ├── Multithreading
-  └── DSA
-
-Full Stack Development
-  ├── HTML
-  ├── CSS
-  ├── JavaScript
-  ├── Spring Boot
-  └── MySQL
-
-Database
-  ├── SQL
-  ├── Joins
-  ├── Subqueries
-  ├── Aggregate Functions
-  └── Window Functions
+                    DSA ROADMAP
+                         │
+          ┌──────────────┴──────────────┐
+          │                             │
+       BASICS                       ADVANCED
+          │                             │
+     ┌────┴────┐                  ┌─────┴─────┐
+     │         │                  │           │
+   Arrays   Strings            HashMap     Recursion
+     │         │                  │           │
+   Sorting   Two Pointer       HashSet      Stack
+     │         │                  │           │
+ Searching  Sliding Window     Queue        Trees
+                                           │
+                                      Graphs / DP
 ```
 
----
+### Currently Practicing
 
-## 🏆 Certifications & Activities
-
-- 🏅 NPTEL – Responsible & Safe AI Systems
-- 🏅 NPTEL – Industrial Internet of Things
-- 🏅 NPTEL – Human-Computer Interaction
-- 🎓 Full Stack Development MasterClass
-- 💡 REGENHACK VR 2.0 Hackathon
-- 🏐 Zonal Level Volleyball Tournament
-- 🥈 Second Prize – March Past
+`Arrays` · `Strings` · `HashMap` · `HashSet` · `ArrayList` · `Stack` · `Queue` · `Recursion` · `Sorting` · `Searching` · `Two Pointers` · `Sliding Window`
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitishkhanna-S&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishkhanna-S&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
----
+| Area | Focus |
+|------|-------|
+| ☕ Java | Core Java + OOP + Collections |
+| 🧠 DSA | Problem Solving + Optimization |
+| 🗄️ SQL | Queries + Joins + Window Functions |
+| 🌐 Frontend | HTML + CSS + JavaScript |
+| ⚙️ Backend | Spring Boot |
+| 🛢️ Database | MySQL + DBMS |
+| 🔐 Security | Authentication + Authorization |
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nitishkhanna-S&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://github.com/Nitishkhanna-S">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/nitish-khanna-s-b92314290">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### 💡 "Code. Learn. Build. Improve."
+## 📊 GitHub Analytics
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nitishkhanna-S&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishkhanna-S&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nitishkhanna-S&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<table>
+<tr>
+<td>🏅</td>
+<td><b>NPTEL</b></td>
+<td>Responsible & Safe AI Systems</td>
+</tr>
+<tr>
+<td>🏅</td>
+<td><b>NPTEL</b></td>
+<td>Industrial Internet of Things</td>
+</tr>
+<tr>
+<td>🏅</td>
+<td><b>NPTEL</b></td>
+<td>Human-Computer Interaction</td>
+</tr>
+<tr>
+<td>💻</td>
+<td><b>Hackathon</b></td>
+<td>REGENHACK VR 2.0</td>
+</tr>
+<tr>
+<td>🏐</td>
+<td><b>Sports</b></td>
+<td>Zonal Level Volleyball Tournament</td>
+</tr>
+<tr>
+<td>🥈</td>
+<td><b>Achievement</b></td>
+<td>Second Prize – March Past</td>
+</tr>
+</table>
+
+---
+
+## 📈 My Developer Mindset
+
+```text
+              LEARN
+                ↓
+             PRACTICE
+                ↓
+              BUILD
+                ↓
+             DEBUG
+                ↓
+             IMPROVE
+                ↓
+              REPEAT
+                ↺
+```
+
+> 💡 **"Don't just learn technology. Build something with it."**
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Nitishkhanna-S">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/nitish-khanna-s-b92314290">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+`Code • Learn • Build • Improve`
+
+</div>
