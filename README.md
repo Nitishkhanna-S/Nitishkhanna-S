@@ -1,149 +1,79 @@
 <div align="center">
 
-# ⚡ NITISH KHANNA S
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=NITISH%20KHANNA%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20JAVA%20%7C%20FULL%20STACK&descAlignY=58&descSize=18"/>
 
-### `Aspiring Software Developer`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Java+%7C+Full+Stack+Developer;DSA+%7C+Problem+Solver;Building+Projects+%7C+Learning+Every+Day;Turning+Ideas+into+Working+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=750&lines=Initializing+Developer+Profile...;Java+%7C+DSA+%7C+SQL+%7C+Full+Stack;Building+Real-World+Applications;Learning.+Building.+Breaking.+Fixing.;Turning+%3Cideas%2F%3E+into+%3Ccode%2F%3E" />
 
 <br>
 
-<a href="https://github.com/Nitishkhanna-S">
-<img src="https://img.shields.io/github/followers/Nitishkhanna-S?label=Followers&style=for-the-badge&logo=github&color=181717"/>
-</a>
-&nbsp;
-<a href="https://github.com/Nitishkhanna-S?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-00D9FF?style=for-the-badge&logo=github"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/nitish-khanna-s-b92314290">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Nitishkhanna-S&label=PROFILE+VIEWS&color=00f5ff&style=flat-square"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🎓 Computer Science & Engineering Student                 │
-│  💻 Aspiring Software Developer                             │
-│  ☕ Java Enthusiast                                         │
-│  🌐 Full Stack Development                                  │
-│  🧠 DSA & Problem Solving                                  │
-│  🗄️ SQL & Database Management                               │
-│  🚀 Building practical software projects                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   > SYSTEM STATUS                                            ║
+║                                                              ║
+║   ● Developer      : Nitish Khanna S                        ║
+║   ● Role           : Aspiring Software Developer            ║
+║   ● Primary Stack  : Java + Full Stack                      ║
+║   ● Database       : MySQL                                  ║
+║   ● Current Quest  : Mastering DSA                           ║
+║   ● Status         : ████████████████░░░░  Learning         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-I enjoy transforming ideas into **simple, useful and scalable applications**.
-
-My current focus is strengthening my foundations in **Java, DSA, SQL, backend development and full-stack application development**.
+</div>
 
 ---
 
-## 🧩 Tech Arsenal
-
-### 💻 Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,mysql,php" />
-</p>
-
-### 🛠️ Tools & Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 🚀 Featured Projects
+# `01` ── WHO AM I?
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
-### 🏗️ INFRAWATCH
+### 👨‍💻 Developer.exe
 
-**Infrastructure Incident Intelligence**
+```bash
+$ whoami
 
-A platform designed to help people report infrastructure damage and help authorities monitor and manage incidents.
+Nitish Khanna S
 
-**Highlights**
+$ cat developer.txt
 
-- 📸 Damage reporting
-- 📍 Location & time information
-- 🚨 Incident prioritization
-- 👮 Officer monitoring
-- 🔄 Incident management
-- 🛣️ Infrastructure safety
+Computer Science Student
+Java Developer
+Full Stack Enthusiast
+Problem Solver
+Project Builder
 
-</td>
+$ ./current_goal.sh
 
-<td width="50%">
-
-### 💰 Budget Buddy
-
-**Personal Finance Management**
-
-An application for tracking income, expenses and spending limits.
-
-**Highlights**
-
-- 💵 Income tracking
-- 💸 Expense management
-- 📊 Reports
-- 🎯 Spending limits
-- 🗂️ Categories
-- 🖱️ Drag & drop management
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 Access Control System
-
-**Role-Based Security Platform**
-
-A system for managing access between different users and protected areas.
-
-**Highlights**
-
-- 👤 Employee / Admin / Security
-- 🔑 RBAC
-- 📱 OTP verification
-- 📲 Twilio integration
-- 📝 Access logs
-- 🛡️ Secure access management
+Learn → Build → Optimize → Repeat
+```
 
 </td>
 
-<td width="50%">
+<td width="45%">
 
-### 🧠 AI & Intelligent Systems
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode" />
 
-Exploring practical applications of **AI and machine learning** for real-world problems.
+<br><br>
 
-**Areas**
+**⚡ Core Focus**
 
-- 🤖 Machine Learning
-- 📊 Data Processing
-- 🔍 Prediction Systems
-- 🧠 Intelligent Decision Support
-- 🚨 Risk Detection
+`Java`  
+`DSA`  
+`SQL`  
+`Spring Boot`  
+`Full Stack`
 
 </td>
 </tr>
@@ -151,63 +81,232 @@ Exploring practical applications of **AI and machine learning** for real-world p
 
 ---
 
-## 🧠 DSA Journey
+# `02` ── TECH UNIVERSE
+
+<div align="center">
+
+### ☕ LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=java,javascript" />
+
+### 🌐 FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### ⚙️ BACKEND
+
+<img src="https://skillicons.dev/icons?i=spring,php" />
+
+### 🗄️ DATABASE
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### 🛠️ TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</div>
+
+---
+
+# `03` ── PROJECT LAB 🧪
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🏗️ INFRAWATCH
+
+### Infrastructure Intelligence
 
 ```text
-                    DSA ROADMAP
-                         │
-          ┌──────────────┴──────────────┐
-          │                             │
-       BASICS                       ADVANCED
-          │                             │
-     ┌────┴────┐                  ┌─────┴─────┐
-     │         │                  │           │
-   Arrays   Strings            HashMap     Recursion
-     │         │                  │           │
-   Sorting   Two Pointer       HashSet      Stack
-     │         │                  │           │
- Searching  Sliding Window     Queue        Trees
-                                           │
-                                      Graphs / DP
+Citizen
+   ↓
+Incident Report
+   ↓
+Data Processing
+   ↓
+Risk / Priority
+   ↓
+Officer Dashboard
+   ↓
+Resolution
 ```
 
-### Currently Practicing
+**Focus**
 
-`Arrays` · `Strings` · `HashMap` · `HashSet` · `ArrayList` · `Stack` · `Queue` · `Recursion` · `Sorting` · `Searching` · `Two Pointers` · `Sliding Window`
+`Infrastructure` `Incident Management` `Safety`
 
----
+</td>
 
-## 📚 Current Focus
+<td width="50%">
 
-<div align="center">
+## 💰 BUDGET BUDDY
 
-| Area | Focus |
-|------|-------|
-| ☕ Java | Core Java + OOP + Collections |
-| 🧠 DSA | Problem Solving + Optimization |
-| 🗄️ SQL | Queries + Joins + Window Functions |
-| 🌐 Frontend | HTML + CSS + JavaScript |
-| ⚙️ Backend | Spring Boot |
-| 🛢️ Database | MySQL + DBMS |
-| 🔐 Security | Authentication + Authorization |
+### Personal Finance
+
+```text
+Income
+  +
+Expenses
+  ↓
+Categories
+  ↓
+Analysis
+  ↓
+Reports
+  ↓
+Spending Limits
+```
+
+**Focus**
+
+`Finance` `Analytics` `Web Application`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🔐 ACCESS CONTROL
+
+### Secure Access Platform
+
+```text
+User
+ ↓
+Authentication
+ ↓
+OTP
+ ↓
+Role Verification
+ ↓
+Access Decision
+ ↓
+Activity Log
+```
+
+**Focus**
+
+`RBAC` `OTP` `Twilio` `Security`
+
+</td>
+
+<td width="50%">
+
+## 🧠 AI SYSTEMS
+
+### Intelligent Applications
+
+```text
+Input
+  ↓
+Data Processing
+  ↓
+Model
+  ↓
+Prediction
+  ↓
+Decision
+```
+
+**Focus**
+
+`Machine Learning` `Prediction` `Decision Support`
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# `04` ── DSA MODE 🧠
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nitishkhanna-S&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishkhanna-S&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=7DF9FF&center=true&vCenter=true&width=600&lines=Solving+Problems...;Optimizing+Solutions...;Thinking+in+Complexity...;O%28N%29+%3E+O%28N%C2%B2%29" />
 
 </div>
 
-<br>
+```text
+                    ┌───────────────┐
+                    │      DSA      │
+                    └───────┬───────┘
+                            │
+          ┌─────────────────┼─────────────────┐
+          ↓                 ↓                 ↓
+       ARRAYS            STRINGS           HASHING
+          │                 │                 │
+          ↓                 ↓                 ↓
+      SORTING           TWO POINTER       HASHMAP
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            ↓
+                    PROBLEM SOLVING
+                            │
+                            ↓
+                       OPTIMIZATION
+```
+
+### ⚡ Current Practice
+
+`Arrays` `Strings` `HashMap` `HashSet` `Stack` `Queue` `Recursion`
+
+`Sorting` `Searching` `Two Pointers` `Sliding Window`
+
+---
+
+# `05` ── CURRENTLY BUILDING 🚀
 
 <div align="center">
+
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│   🔥 JAVA                                             │
+│   ████████████████████████████░░░░░░  80%             │
+│                                                        │
+│   🧠 DSA                                              │
+│   ███████████████████████░░░░░░░░░░  70%             │
+│                                                        │
+│   🌐 FULL STACK                                       │
+│   █████████████████████████░░░░░░░  75%              │
+│                                                        │
+│   🗄️ SQL                                              │
+│   ███████████████████████████░░░░░  80%              │
+│                                                        │
+│   ⚙️ SPRING BOOT                                      │
+│   ████████████████░░░░░░░░░░░░░░░  55%              │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# `06` ── GITHUB ACTIVITY 📡
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nitishkhanna-S&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishkhanna-S&layout=donut&hide_border=true&theme=tokyonight"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Nitishkhanna-S&theme=tokyonight&hide_border=true"/>
 
@@ -215,84 +314,53 @@ Exploring practical applications of **AI and machine learning** for real-world p
 
 ---
 
-## 🐍 Contribution Journey
+# `07` ── CONTRIBUTION MATRIX 🐍
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+# `08` ── ACHIEVEMENTS 🏆
 
-<table>
-<tr>
-<td>🏅</td>
-<td><b>NPTEL</b></td>
-<td>Responsible & Safe AI Systems</td>
-</tr>
-<tr>
-<td>🏅</td>
-<td><b>NPTEL</b></td>
-<td>Industrial Internet of Things</td>
-</tr>
-<tr>
-<td>🏅</td>
-<td><b>NPTEL</b></td>
-<td>Human-Computer Interaction</td>
-</tr>
-<tr>
-<td>💻</td>
-<td><b>Hackathon</b></td>
-<td>REGENHACK VR 2.0</td>
-</tr>
-<tr>
-<td>🏐</td>
-<td><b>Sports</b></td>
-<td>Zonal Level Volleyball Tournament</td>
-</tr>
-<tr>
-<td>🥈</td>
-<td><b>Achievement</b></td>
-<td>Second Prize – March Past</td>
-</tr>
-</table>
+<div align="center">
+
+| | Achievement |
+|:---:|:---|
+| 🏅 | NPTEL — Responsible & Safe AI Systems |
+| 🏅 | NPTEL — Industrial Internet of Things |
+| 🏅 | NPTEL — Human-Computer Interaction |
+| 💻 | REGENHACK VR 2.0 Hackathon |
+| 🏐 | Zonal Level Volleyball Tournament |
+| 🥈 | Second Prize — March Past |
+
+</div>
 
 ---
 
-## 📈 My Developer Mindset
+# `09` ── DEVELOPER PHILOSOPHY
 
-```text
-              LEARN
-                ↓
-             PRACTICE
-                ↓
-              BUILD
-                ↓
-             DEBUG
-                ↓
-             IMPROVE
-                ↓
-              REPEAT
-                ↺
-```
+<div align="center">
 
-> 💡 **"Don't just learn technology. Build something with it."**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=%22First+make+it+work.%22;%22Then+make+it+clean.%22;%22Then+make+it+fast.%22;%22Keep+learning.+Keep+building.%22"/>
+
+</div>
 
 ---
 
-## 🌐 Let's Connect
+# `10` ── CONNECT 🌐
 
 <div align="center">
 
 <a href="https://github.com/Nitishkhanna-S">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/nitish-khanna-s-b92314290">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -301,8 +369,22 @@ Exploring practical applications of **AI and machine learning** for real-world p
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+```text
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║              Thanks for visiting my profile!               ║
+║                                                            ║
+║             CODE  •  BUILD  •  LEARN  •  REPEAT           ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
 
-`Code • Learn • Build • Improve`
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+<div align="center">
+
+### `</developer>`
 
 </div>
